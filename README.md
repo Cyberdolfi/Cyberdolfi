@@ -11,7 +11,7 @@ and teach me all about the Hardware stuff! 😀
 
 ---
 
-<h2 align="center">GitHub-Stats: </h2>
+<h2 align="center">GitHub-Stats:</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cyberdolfi&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact&hide=contribs,prs&rank_icon=github" alt="Stats Card"/>
