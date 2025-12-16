@@ -1,43 +1,55 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=180&section=header&text=Hey%20There!&fontSize=50&fontAlignY=35&animation=scaleIn&fontColor=ffffff" alt="Header"/>
 </p>
-<h2 align="center">I'm <strong>Cyberdolfi</strong>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h2>
+
+<h2 align="center">Hi, I'm <strong>Cyberdolfi</strong>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h2>
+
 <p align="center">
-  I'm a young dev diving into the world of coding 📟.
-  </br>
-  I love <strong>Minecraft</strong>, <strong>hardware</strong> and experimenting with different programming languages on different projects.
-  </br>
-  Learning, creating, and having fun along the way! 🚀
+  <p align="left">
+    🌟 I'm a young dev and currently learning everything around coding <br>
+    🎮 Minecraft pro (in coding) <br>
+    🐧 Backend developer, but I wanne learn Frontend with JavaScript, React, etc. <br>
+    💻 Experimenting with multiple programming languages and projects <br>
+    🚀 Learning, creating, and having fun!
+  </p>
 </p>
-<hr>
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Stuff I use</h3>
-      <a href="https://github.com/Cyberdolfi"><img src="https://skillicons.dev/icons?i=java,kotlin,gradle,python,js,cs,cpp,bash,nodejs,dotnet,idea,vscode,discord,blender,github,linux,windows,kali&perline=7" width="400" alt="That is what I use"/></a>
-    </td>
-  </tr>
-</table>
+
+---
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3 align="center">My Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=CyberDolfi&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=percentile" width="400" alt="Stats"/>
-      </td>
-      <td valign="top" align="center" width="50%">
-        <h3 align="center">Top Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdolfi&layout=compact&theme=chartreuse-dark&hide_border=true" width="400" alt="My languages">
-      </td>
-    </tr>
-  </table>
-</div>
-<hr>
-<p align="center">
-  <a href="https://youtube.com/@Cyberdolfi"><img src="https://img.shields.io/youtube/channel/subscribers/UCZhrQbMrU6jQbr2d1-5_daA?style=flat&logo=youtube&labelColor=red"/></a>
-  <a href="https://discord.gg/4wHFzBjDTY"><img src="https://img.shields.io/discord/1421594734442319996?style=flat&logo=discord"/></a>
+
+### 🛠 Technologies I Use
+<a href="https://github.com/Cyberdolfi">
+<img src="https://skillicons.dev/icons?i=java,kotlin,gradle,python,js,cs,cpp,bash,nodejs,dotnet,idea,vscode,discord,blender,github,linux,windows,kali&perline=7" width="500"/>
+</a>
+
+---
+
+### 📊 My GitHub Stats
+<table>
+<tr>
+<td valign="top" align="center" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberdolfi&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&v=20251216" width="350" />
+</td>
+<td valign="top" align="center" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdolfi&layout=donut&theme=chartreuse-dark&hide_border=true&v=20251216" width="350" />
+</td>
+</tr>
+</table>
+
+
+---
+
+<p>
+  <a href="https://youtube.com/@Cyberdolfi">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCZhrQbMrU6jQbr2d1-5_daA?style=for-the-badge&logo=youtube&logoColor=red&label=youtube"/>
+  </a>
+  <a href="https://discord.gg/4wHFzBjDTY">
+    <img src="https://img.shields.io/discord/1421594734442319996?style=for-the-badge&logo=discord&color=red&label=discord"/>
+  </a>
 </p>
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer" alt="Footer"/>
