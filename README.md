@@ -24,7 +24,7 @@
     <tr>
       <td valign="top" width="50%">
         <h3 align="center">My Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=Cyberdolfi&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=percentile" width="400" alt="Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=CyberDolfi&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=percentile" width="400" alt="Stats"/>
       </td>
       <td valign="top" align="center" width="50%">
         <h3 align="center">Top Languages</h3>
