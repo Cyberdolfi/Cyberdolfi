@@ -3,11 +3,11 @@
 </p>
 <h2 align="center">I'm <strong>Cyberdolfi</strong>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h2>
 <p align="center">
-  <em>I'm a young dev diving into the world of coding 📟.</em>
+  I'm a young dev diving into the world of coding 📟.
   </br>
-  <em>I love <strong>Minecraft</strong>, <strong>hardware</strong> and experimenting with different programming languages on different projects.</em>
+  I love <strong>Minecraft</strong>, <strong>hardware</strong> and experimenting with different programming languages on different projects.
   </br>
-  <em>Learning, creating, and having fun along the way! 🚀</em>
+  Learning, creating, and having fun along the way! 🚀
 </p>
 <hr>
 <table width="100%" align="center">
