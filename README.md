@@ -26,16 +26,10 @@
 ---
 
 ### 📊 My GitHub Stats
-<table>
-<tr>
-<td valign="top" align="center" width="400">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberdolfi&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&v=20251216" width="350" />
-</td>
-<td valign="top" align="center" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdolfi&layout=donut&theme=chartreuse-dark&hide_border=true&v=20251216" width="350" />
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=cyberdolfi&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&v=20251216" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdolfi&layout=donut&theme=chartreuse-dark&hide_border=true&v=20251216" />
+
 
 
 ---
