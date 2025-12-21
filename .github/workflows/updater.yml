@@ -22,7 +22,7 @@ jobs:
 
           FILE="README.md"
           if [ -f "$FILE" ]; then
-            sed -i -E "s/(\?v=)[0-9]+/\1$DATE/g" "$FILE"
+            sed -i -E "s/(\&v=)[0-9]+/\1$DATE/g" "$FILE"
           fi
 
       - name: Commit & push changes
