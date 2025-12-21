@@ -6,9 +6,9 @@
 
 <p align="center">
   <p align="left">
-    🌟 I'm a young dev and currently learning everything around coding <br>
+    🇩🇪 I'm a young German dev and currently learning everything around coding <br>
     🎮 Minecraft pro (in coding) <br>
-    🐧 Backend developer, but I wanne learn Frontend with JavaScript, React, etc. <br>
+    🐧 Backend developer, but I wanne learn some Frontend languages like JavaScript, React, etc. <br>
     💻 Experimenting with multiple programming languages and projects <br>
     🚀 Learning, creating, and having fun!
   </p>
@@ -20,16 +20,16 @@
 
 ### 🛠 Technologies I Use
 <a href="https://github.com/Cyberdolfi">
-<img src="https://skillicons.dev/icons?i=java,kotlin,gradle,python,js,cs,cpp,bash,nodejs,dotnet,idea,vscode,discord,blender,github,linux,windows,kali&perline=7" width="500"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,gradle,python,js,cs,cpp,bash,nodejs,dotnet,idea,vscode,discord,blender,rust,linux,windows,kali,react&perline=7" width="500"/>
 </a>
 
 ---
 
 ### 📊 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=cyberdolfi&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&v=20251216" />
+<img src="https://github-readme-stats.vercel.app/api?username=cyberdolfi&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&text_color=ffa500&title_color=ff0000&icon_color=ff0000&v=20251216" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdolfi&theme=chartreuse-dark&hide_border=true&text_color=ffa500&title_color=ff0000&stats_format=bytes&v=20251216" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdolfi&layout=donut&theme=chartreuse-dark&hide_border=true&v=20251216" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberdolfi&theme=github-compact&hide_border=true&area=true&days=40&bg_color=000000&line=ff0000&area_color=ee0000&point=ffa500&color=ffffff&v20251216" width="750" />
 
 
 ---
