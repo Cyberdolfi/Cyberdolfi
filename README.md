@@ -26,8 +26,8 @@
 ---
 
 ### 📊 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=cyberdolfi&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&text_color=ffa500&title_color=ff0000&icon_color=ff0000&v=20251216" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdolfi&theme=chartreuse-dark&hide_border=true&text_color=ffa500&title_color=ff0000&stats_format=bytes&v=20251216" />
+<img src="https://github-readme-stats.vercel.app/api?username=cyberdolfi&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&text_color=ffa500&title_color=ff0000&icon_color=ff0000&v=20251221" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdolfi&theme=chartreuse-dark&hide_border=true&text_color=ffa500&title_color=ff0000&stats_format=bytes&v=20251221" />
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberdolfi&theme=github-compact&hide_border=true&area=true&days=40&bg_color=000000&line=ff0000&area_color=ee0000&point=ffa500&color=ffffff&v20251216" width="750" />
 
