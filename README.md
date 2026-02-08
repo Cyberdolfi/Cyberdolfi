@@ -6,9 +6,9 @@
 
 <p align="center">
   <p align="left">
-    🇩🇪 I'm a young German dev and currently learning everything around coding <br>
-    🎮 Minecraft pro (in coding) <br>
-    🐧 Backend developer, but I wanne learn some Frontend languages like JavaScript, React, etc. <br>
+    🇩🇪 I'm a young developer that is currently learning some cool languages <br>
+    🎮 Love Minecraft <br>
+    🐧 Backend developer<br>
     💻 Experimenting with multiple programming languages and projects <br>
     🚀 Learning, creating, and having fun!
   </p>
