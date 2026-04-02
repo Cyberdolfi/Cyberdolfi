@@ -26,10 +26,10 @@
 ---
 
 ### 📊 My GitHub Stats
-<img src="https://github-readme-stats-sable-zeta-32.vercel.app/api?username=cyberdolfi&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&text_color=ffa500&title_color=ff0000&icon_color=ff0000&v=20260330" />
-<img src="https://github-readme-stats-sable-zeta-32.vercel.app/api/top-langs/?username=Cyberdolfi&theme=chartreuse-dark&hide_border=true&text_color=ffa500&title_color=ff0000&stats_format=bytes&v=20260330" />
+<img src="https://github-readme-stats-sable-zeta-32.vercel.app/api?username=cyberdolfi&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=percentile&text_color=ffa500&title_color=ff0000&icon_color=ff0000&v=20260402" />
+<img src="https://github-readme-stats-sable-zeta-32.vercel.app/api/top-langs/?username=Cyberdolfi&theme=chartreuse-dark&hide_border=true&text_color=ffa500&title_color=ff0000&stats_format=bytes&v=20260402" />
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberdolfi&theme=github-compact&hide_border=true&area=true&days=40&bg_color=000000&line=ff0000&area_color=ee0000&point=ffa500&color=ffffff&v=20260330" width="750" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberdolfi&theme=github-compact&hide_border=true&area=true&days=40&bg_color=000000&line=ff0000&area_color=ee0000&point=ffa500&color=ffffff&v=20260402" width="750" />
 
 
 ---
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCZhrQbMrU6jQbr2d1-5_daA?style=for-the-badge&logo=youtube&logoColor=red&label=youtube&v20251216"/>
   </a>
   <a href="https://discord.gg/4wHFzBjDTY">
-    <img src="https://img.shields.io/discord/1421594734442319996?style=for-the-badge&logo=discord&color=red&label=discord&v=20260330"/>
+    <img src="https://img.shields.io/discord/1421594734442319996?style=for-the-badge&logo=discord&color=red&label=discord&v=20260402"/>
   </a>
 </p>
 
