@@ -7,11 +7,9 @@
 <p align="center">
   <p align="left">
     🇩🇪 I'm a young developer that is currently learning some cool languages <br>
-    🎮 Love Minecraft <br>
-    🐧 Backend developer<br>
-    💻 Experimenting with multiple programming languages and projects <br>
-    🚀 Learning, creating, and having fun!
-  </p>
+    Love Minecraft <br>
+    Backend developer<br>
+    Experimenting with multiple programming languages and projects <br>
 </p>
 
 ---
